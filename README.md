@@ -17,6 +17,8 @@ List of Semantic HTML Elements used in my challeng
 ## 💡 The deployed URL:
 https://github.com/shaimaaGhamry/Horizon
 
+![MyScreenShot](assets/images/MyScreenShot.gif)
+
 
 ## 💡 Installation:
 How to get a clone from my code from my repository:
