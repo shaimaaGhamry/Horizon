@@ -39,7 +39,12 @@ Change the current working directory to the location where you want the cloned d
 
 Type git clone, and then paste the URL you copied earlier.
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/shaimaaGhamry/Horizon
 Press Enter to create your local clone.
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/shaimaaGhamry/Horizon
+
+To pull down any changes from the repo we created on Github and update the repo on our local machine, we use git pull. The origin refers to the repo that we cloned and main is the branch. The default branch is main.
+
+ 
+  git pull origin main
